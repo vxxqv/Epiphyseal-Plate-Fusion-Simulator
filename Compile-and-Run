@@ -1,0 +1,6 @@
+Compile:
+g++ -std=c++14 epiphyseal.cpp -o simulation_run
+Run:
+./simulation_run.exe
+
+  *Please note that I have named my file epipyseal.cpp however when compiling please use your file name instead
